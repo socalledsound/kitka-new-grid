@@ -28,8 +28,10 @@ body {
 
 .day-item {
     background-color: rgba(20, 20, 20, 0.4);
-  
+    /* background-color: rgba(220, 220, 220, 0.8); */
+    font-size: large;
     color: #fcbab7;
+    /* color: #d8cfce; */
     width: 90%;
     height: 50px;
     margin-left: 10px;
